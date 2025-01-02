@@ -1,0 +1,7 @@
+## Interface: 30400
+## Title: GatherBuddy
+## Notes: Tracks and displays gathering nodes.
+## Author: Gweari
+## Version: 1.0
+## SavedVariables: GatherBuddyDB
+GatherBuddy.lua
