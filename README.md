@@ -1,0 +1,2 @@
+# WoWClassicGatheringAddon
+Gather Buddy Addon
